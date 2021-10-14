@@ -9,7 +9,7 @@ const Remove = styled.div`
   color: #dee2e6;
   font-size: 24px;
   cursor: pointer;
-  $:hover {
+  &:hover {
     color: #ff6b6b;
   }
   display: none;
